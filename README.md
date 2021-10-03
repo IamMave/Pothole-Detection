@@ -23,7 +23,7 @@ Tap on the 'Start Trip' button (your button will turn green) and you are all set
 <p align="center"><img src="Screenshots/start_trip.jpg" width="500" alt="accessibility text"></p><br>
   
 <b>Step 2:<b><br>
-Once you are done the tap 'End Trip' button. All the potholes has been detect will be stored locally on your device.
+Once you are done then tap 'End Trip' button. All the potholes detected will be stored locally on your device.
 
 <b>Step 3:<b><br>
 * Tapping on 'Show Potholes' plots all the Pothole markers on the displayed map.
@@ -31,4 +31,4 @@ Once you are done the tap 'End Trip' button. All the potholes has been detect wi
 * You can contribute your coordinates to every other users by hitting the 'Sync' button.
 * This will synchronize your locally stored coordinates to every other users, other users can view your data by tapping 'Show Global         Potholes'.
 <br><br>
-  <h4>This idea can be extended to detect humps and other irregularities on roads.</h4>
+  <h4>This idea can be extended to detect humps and other irregularities on roads.</h4
